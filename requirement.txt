@@ -1,0 +1,7 @@
+numpy
+pandas
+flask
+sklearn.model_selection
+joblib
+os
+logging
