@@ -1,7 +1,5 @@
 numpy
-pandas
+pandas==2.2.2
 flask
-sklearn.linear_model
+scikit-learn
 joblib
-os
-logging
